@@ -7,7 +7,6 @@
 // Credit to Stephen Maguire for his custom userform function: https://gist.github.com/samaguire/925a261ab5fcb86c944196b4c316e116
 
 
-
 #r "Microsoft.VisualBasic"
 using Microsoft.VisualBasic;
 using System.Windows.Forms;
@@ -158,5 +157,3 @@ foreach(KeyValuePair<string, string> x in expressionDict)
         }
     }
 }
-
-
